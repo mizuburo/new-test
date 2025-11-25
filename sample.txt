@@ -1,1 +1,2 @@
 Hello Git
+This file was updated.
